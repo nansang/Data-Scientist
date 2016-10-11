@@ -6,3 +6,4 @@
 - emmet : web开发神器
 - docblockr : 注释神器
 - script : 运行工具
+- atom-beautify: 代码自动对齐

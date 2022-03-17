@@ -1,6 +1,6 @@
-##python在数据科学中应用
+## python在数据科学中应用
 
-###存储和操作数据
+### 存储和操作数据
 
 ipython 交互式python ,在python的基础上封装了一层
 

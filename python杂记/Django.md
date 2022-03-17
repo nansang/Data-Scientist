@@ -60,7 +60,7 @@ request处理流程：
 ##admin（字面意思，为了增加一个管理者，管理后台）
 ##django orm（数据库的相关操作，增删改查）
 ##template tags（）
->Django template tags 讓你可以在 HTML 檔案裡使用類似 Python 的語法，動態存取從 view function 傳過來的變數，或是在顯示到瀏覽器之前幫你做簡單的資料判斷、轉換、計算等等。
+> Django template tags 讓你可以在 HTML 檔案裡使用類似 Python 的語法，動態存取從 view function 傳過來的變數，或是在顯示到瀏覽器之前幫你做簡單的資料判斷、轉換、計算等等。
 
 
 ##dynamic url（实现界面的跳转）

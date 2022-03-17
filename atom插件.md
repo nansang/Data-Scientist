@@ -1,4 +1,4 @@
-##atom 插件
+### atom 插件
 
 - minimap : 侧栏显示当前所处代码位置
 - autocomplete- : 各种语言的支持
